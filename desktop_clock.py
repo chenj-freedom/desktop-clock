@@ -11,6 +11,7 @@ Features:
 - Draggable, right-click to exit
 
 Usage:
+- Install dependencies first: pip install pyobjc
 - Windows: Rename to *.pyw and double-click to run
 - Other platforms: python desktop_clock.py
 """
